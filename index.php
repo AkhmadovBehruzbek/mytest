@@ -24,10 +24,10 @@
       <img src="http://s018.radikal.ru/i524/1710/40/97b1cf2b00ff.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://images.app.goo.gl/G637UiGJycddnkXPA" class="d-block w-100" alt="...">
+      <img src="https://images.app.goo.gl/G637UiGJycddnkXPA.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://images.app.goo.gl/WX7mY6Kk7HoqsNVRA" class="d-block w-100" alt="...">
+      <img src="https://images.app.goo.gl/WX7mY6Kk7HoqsNVRA.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
 </div>
