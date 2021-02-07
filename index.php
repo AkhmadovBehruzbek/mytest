@@ -10,8 +10,8 @@
 
     <style>
         .head{
-            width:100%;
-            height:400px;
+            width:50%;
+            margin:0 auto;
         }
     </style>
     <title>Hello, world!</title>
