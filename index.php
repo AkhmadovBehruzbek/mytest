@@ -8,9 +8,16 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
+    <style>
+        .head{
+            width:100%;
+            height:400px;
+        }
+    </style>
     <title>Hello, world!</title>
   </head>
   <body>
+    <div class="head">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -24,9 +31,11 @@
     </div>
   </div>
 </div>
+    </div>
 <br>
 <h1>TEPADAGI MADINA SANI KICHKINALIGINGDAGI RASMING</h1>
 <br>
+<div class="head">
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -39,6 +48,7 @@
       <img src="1.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
+</div>
 </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
