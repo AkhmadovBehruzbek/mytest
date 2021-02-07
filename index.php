@@ -14,7 +14,7 @@
             margin:0 auto;
         }
     </style>
-    <title>Hello, world!</title>
+    <title>Madina❤️</title>
   </head>
   <body>
     <div class="head">
@@ -24,10 +24,10 @@
       <img src="http://s018.radikal.ru/i524/1710/40/97b1cf2b00ff.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://lh3.googleusercontent.com/proxy/tgso5Zh1V3vRYiblRt30nxxNcgU9okc5729u8HVKvpjeyR-4hkdjuXeUSzEavRzYzDIQoam53DP-2mwelGkk76Hf12vR" class="d-block w-100" alt="...">
+      <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fdarakchi.uz%2Findex.php%2Fuz%2F35657&psig=AOvVaw0EpLCpkjhjIT6CveiZsRa5&ust=1612798421817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC51rmM2O4CFQAAAAAdAAAAABAu" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ft.me%2Fs%2Fruhiyatmanzili%3Fbefore%3D134&psig=AOvVaw0EpLCpkjhjIT6CveiZsRa5&ust=1612798421817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC51rmM2O4CFQAAAAAdAAAAABAi" class="d-block w-100" alt="...">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuybekasi.ru%2Foyin-kulgi%2F47-bola-kulgusi-fotolar.html&psig=AOvVaw0EpLCpkjhjIT6CveiZsRa5&ust=1612798421817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC51rmM2O4CFQAAAAAdAAAAABAo" class="d-block w-100" alt="...">
     </div>
   </div>
 </div>
